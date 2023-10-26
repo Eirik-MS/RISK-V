@@ -1,0 +1,3 @@
+[submodule "Test_Framework"]
+	path = Test_Framework
+	url = git@gitlab.com:sindrekvam/tdt4160_test_framework.git
