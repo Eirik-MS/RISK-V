@@ -9,7 +9,7 @@ function_error_str: .string "ERROR: Woops, programmet returnerte ikke fra et fun
 # Test Mode
 # Sett a7 til 1 for Ã¥ teste med veridene under Test - Start
 # Sett a7 til 0 nÃ¥r du skal levere
-li a7, 1
+li a7, 0
 beq a7, zero, load_complete
 
 # Test - Start
